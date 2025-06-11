@@ -3,6 +3,19 @@
 Flask API exposing an endpoint for determining the
 sentiment of text.
 
+[![status: archived](https://img.shields.io/badge/status-archived-red.svg)](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories)
+> ⚠ **Note:** This repository has been **archived** and is no longer maintained.
+```
+This fork was primarily to contribute enhancements to the open-source sentiment-api project by Martin Oywa (martinoywa).
+It is no longer in active use, and there are no current or future plans to contribute to or develop this repository further.
+
+The code and history remain available for reference. Feel free to browse or fork, but please be aware that:
+- Issues and pull requests are disabled
+- No support or updates will be provided
+
+Thanks for your interest!
+```
+
 # How to run locally. (**_Terminal_**)
 > The following commands require execution in the project root.
 
